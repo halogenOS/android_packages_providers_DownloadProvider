@@ -11,7 +11,7 @@
     <!-- Text for button to manually resume all manually paused downloads [CHAR LIMIT=25] -->
     <string name="button_resume_download">ادامه دادن</string>
     <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
-    <string name="button_pause_download">توقف</string>
+    <string name="button_pause_download">مکث</string>
     <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
-    <string name="notif_summary_paused">%d متوقف شد</string>
+    <string name="notif_summary_paused">%d متوقف شده</string>
 </resources>
